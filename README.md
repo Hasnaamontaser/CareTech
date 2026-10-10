@@ -60,7 +60,7 @@ The system allows patients to request meals and report maintenance problems, whi
 ## Technologies
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python / Django
+- **Backend:** PHP / Laravel
 - **Database:** MySQL
 - **Version Control:** Git & GitHub
 - **Project management:** Trello / GanttProject
