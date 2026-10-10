@@ -1,5 +1,4 @@
 # CareTech
-# Hospital-Management-System-
 # Hospital Food & Maintenance Management System
 
 ## Project Management
