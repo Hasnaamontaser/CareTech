@@ -63,3 +63,4 @@ The system allows patients to request meals and report maintenance problems, whi
 - **Backend:** Python / Django
 - **Database:** MySQL
 - **Version Control:** Git & GitHub
+- **Project management:** Trello / GanttProject
